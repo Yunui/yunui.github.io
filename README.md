@@ -6,4 +6,4 @@
   “ 不错 ”
 > 这是引用
 
-[ ! [ 标示01 ] (https://raw.githubusercontent.com/Yunui/yunui.github.io/master/blog-img/IMG_7031.JPG "测试图片")](http://taobao.com)  
+[ ! [ yunui  ] ( https://raw.githubusercontent.com/Yunui/yunui.github.io/master/blog-img/IMG_7031.JPG "测试图片" )](http://taobao.com)  
