@@ -7,6 +7,4 @@
 > 这是引用
 
 
-![alt text](https://raw.githubusercontent.com/Yunui/yunui.github.io/master/blog-img/IMG_7031.JPG "测试图片" )
-[alt text](http://taobao.com/)
-<http://taobao.com>
+[ ! [img alt]( https://raw.githubusercontent.com/Yunui/yunui.github.io/master/blog-img/IMG_7031.JPG "测试图片" ) ] (http:taobao.com)
